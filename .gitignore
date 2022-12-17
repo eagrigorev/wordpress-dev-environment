@@ -26,4 +26,4 @@ wordpress/wp-content/plugins/*
 
 # Other ignores
 .env
-node-modules/
+node_modules/
