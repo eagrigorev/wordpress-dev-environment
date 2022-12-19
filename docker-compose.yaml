@@ -39,7 +39,7 @@ services:
       - mysql
     image: wordpress:latest
     ports:
-      - '8000:80'
+      - '80:80'
     restart: always
     env_file: .env
     volumes: ['./wordpress:/var/www/html']
