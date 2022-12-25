@@ -15,7 +15,7 @@ wordpress/wp-content/themes/*
 wordpress/wp-content/plugins/*
 
 # ...your custom theme
-!wordpress/wp-content/themes/boreal/
+!wordpress/wp-content/themes/my-theme/
 
 # ...your custom plugin
 !wp-content/plugins/my-single-file-plugin.php
